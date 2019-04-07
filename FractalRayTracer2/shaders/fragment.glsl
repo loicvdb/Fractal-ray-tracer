@@ -31,7 +31,7 @@ uniform int noiseSeed;
 uniform sampler2D hdri;
 uniform float alpha;
 
-//parameters for the camera
+//camera settings
 uniform vec3 posCam;
 uniform vec3 prevPosCam;
 uniform vec3 dirCam;
